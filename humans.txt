@@ -1,46 +1,20 @@
-
-                            
 /* TEAM */
+Developer: Alexander Montaña Bello.
+Site: alexmbello1984@gmail.com
+Twitter: @alexmbello
 
-                            
-Tu cargo dentro del proyecto: Tu nombre.
 
-                            
-Site: E-mail, enlace a formulario de contacto,...
+Location: Bogota, Colombia.
+ 
+ /* THANKS */
 
-                            
-Twitter: tu nombre de usuario en Twitter.
-
-                            
-Location: Ciudad, Comunidad, País.
-
-                         
-                 
-                        [...]
-						
-
-							
-/* THANKS */
-
-							
-Name: nombre o url
-
-						
-                 
-                        [...]
-                        
-
-                            
 /* SITE */
 
-                            
-Last update: YYYY/MM/DD 
+Last update: 2014/12/29 
 
-                            
 Standards: HTML5, CSS3,..
 
-                            
-Components: Modernizr, jQuery, etc.
+Components: 
+    Modernizr,  jQuery, 
 
-                            
 Software: Software usado para el desarrollo del site.
